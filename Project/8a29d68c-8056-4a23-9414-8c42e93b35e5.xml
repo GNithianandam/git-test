@@ -1,2 +1,2 @@
 ﻿{"CLs":[{"__type":"LD","Var":"in1"},{"__type":"ST","Ix":1,"Var":"out0","X":1}],"LRI":2,"RRI":3,"VLs":[]}
-{"CLs":[{"__type":"LD","Var":"in2"},{"__type":"ST","Ix":1,"Var":"out1","X":1}],"LRI":2,"RRI":3,"VLs":[]}
+{"CLs":[{"__type":"LD","Var":"in2bool"},{"__type":"ST","Ix":1,"Var":"out1","X":1}],"LRI":2,"RRI":3,"VLs":[]}
